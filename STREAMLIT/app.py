@@ -130,7 +130,7 @@ def main():
         tuple(main_category)
     )) + 1
 
-    CATEGORY = st.text_input("Category")
+    CATEGORY = st.text_input("Category (Music, Product Design, Tabletop Games, Documentary, etc.)")
 
     COUNTRY = st.text_input("Country (US, GB, DE, etc.)")
 
