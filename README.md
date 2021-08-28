@@ -1,6 +1,4 @@
-<div align="center">
-  <h1>Crowdfunding: Predicting Kickstarter Project's Success</h1>
-</div>
+# Crowdfunding: Predicting Kickstarter Project's Success
 
 ![Logo](https://github.com/rohanstomar11/Technocolabs-MLE-Internship/blob/master/FLASK/static/one.jpeg)
 
@@ -31,9 +29,9 @@ Our objective is therefore to deploy a model which predicts the success of a Kic
 
 ## Algorithms
 
-<li>Logistic Regression - 0.899</li>
-<li>Random Forest - 0.929</li>
-<li>Light Gradient Boosting Machine - 0.935</li>
+<li>Logistic Regression - <b>0.899</b></li>
+<li>Random Forest - <b>0.929</b></li>
+<li>Light Gradient Boosting Machine - <b>0.935</b></li>
 
 ## Streamlit & Heroku
 > [Check!](https://kickstarter-project-success.herokuapp.com/)
