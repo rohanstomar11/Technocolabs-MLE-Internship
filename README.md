@@ -31,9 +31,9 @@ Our objective is therefore to deploy a model which predicts the success of a Kic
 
 ## Algorithms
 
-<li>Logistic Regression</li>
-<li>Random Forest</li>
-<li>Light Gradient Boosting Machine</li>
+<li>Logistic Regression - 0.899</li>
+<li>Random Forest - 0.929</li>
+<li>Light Gradient Boosting Machine - 0.935</li>
 
 ## Streamlit & Heroku
 > [Check!](https://kickstarter-project-success.herokuapp.com/)
